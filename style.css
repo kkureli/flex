@@ -21,6 +21,10 @@ header {
   background-color: rgb(85, 213, 234);
   text-align: center;
   margin-bottom: 2.5px;
+  flex: 0.2;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 
 header h1 {
